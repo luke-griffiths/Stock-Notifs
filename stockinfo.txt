@@ -1,0 +1,7 @@
+ASML, 600.42, https://finance.yahoo.com/quote/ASML?p=ASML&.tsrc=fin-srch
+ENIA, 7.14, https://finance.yahoo.com/quote/ENIA?p=ENIA&.tsrc=fin-srch
+INTC, 56.36, https://finance.yahoo.com/quote/INTC?p=INTC&.tsrc=fin-srch
+PLTR, 24.43, https://finance.yahoo.com/quote/PLTR?p=PLTR&.tsrc=fin-srch
+STM, 36.63, https://finance.yahoo.com/quote/STM?p=STM&.tsrc=fin-srch
+UBER, 45.52, https://finance.yahoo.com/quote/UBER?p=UBER&.tsrc=fin-srch
+UMC, 8.14, https://finance.yahoo.com/quote/UMC?p=UMC&.tsrc=fin-srch

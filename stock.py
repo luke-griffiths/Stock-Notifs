@@ -1,4 +1,7 @@
 class Stock:
+    """
+    stores the attributes for a stock object
+    """
     def __init__(self, _ticker, _prchsAmt, _url):
         self._ticker = _ticker
         self._prchsAmt = _prchsAmt
