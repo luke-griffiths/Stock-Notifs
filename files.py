@@ -17,5 +17,5 @@ def readtxt(file):
         substr = line[c1 + 2:]
         c2 = substr.index(',')
         d[line[0:c1]] = [float(substr[:c2]), substr[c2 + 2:]]
-        
+
     return d

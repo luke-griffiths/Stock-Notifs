@@ -1,6 +1,7 @@
-import stock
-import collect
-import files
+
+from stock import *
+from collect import *
+from files import *
 
 
 #create a dictionary of stocks from the text file
